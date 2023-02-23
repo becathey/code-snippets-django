@@ -1,11 +1,11 @@
-# Snippets
+# Code Snippets API
 
-Snippets is a Web API that allows users to add favorite code snippets. It is built with Django/Django REST Framework, and uses the pygments code highlighting library.
+Code Snippets API is a pastebin code highlighting Web API that allows users to add favorite code snippets. It is built with Django/Django REST Framework, and uses the pygments code highlighting library.
 
 ## Clone the Repository
 
 ```
-git clone https://github.com/becathey/<url-to-be-determined>
+git clone https://github.com/becathey/code-snippets-django
 ```
 
 ## Create & Activate a Virtual Environment
